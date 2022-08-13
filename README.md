@@ -1,7 +1,5 @@
 # Criptografia e JWT
 
-<br>
-
 ### Progresso:
 
 <strong>[Node.js: criptografia e tokens JWT](https://github.com/furtadomn/criptografia-e-JWT/tree/main/criptografia_e_tokens_JWT)</strong>
@@ -12,6 +10,6 @@
 
 <br>
 
-<strong>[Node.js e JWT: autenticação com tokens](#)</strong>
+<strong>[Node.js e JWT: autenticação com tokens](https://github.com/furtadomn/criptografia-e-JWT/tree/main/autenticacao_com_tokens)</strong>
 
 :small_orange_diamond: <strong>Status:</strong> Em andamento :hourglass_flowing_sand:
