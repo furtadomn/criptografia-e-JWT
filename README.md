@@ -1,4 +1,4 @@
-# Criptografia e JWT
+# Node.js Studies
 
 ### Progresso:
 
@@ -11,5 +11,11 @@
 <br>
 
 <strong>[Node.js e JWT: autenticação com tokens](https://github.com/furtadomn/criptografia-e-JWT/tree/main/autenticacao_com_tokens)</strong>
+
+:small_orange_diamond: <strong>Status:</strong> Em andamento :hourglass_flowing_sand:
+
+<br>
+
+<strong>[Node.js: API Rest com Express e MongoDB](https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb)</strong>
 
 :small_orange_diamond: <strong>Status:</strong> Em andamento :hourglass_flowing_sand:
