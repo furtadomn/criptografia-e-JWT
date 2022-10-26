@@ -59,6 +59,14 @@ class BookController {
       }
     });
   };
+
+  static getBookByPublishingCompany = (req, res) => {
+    const publishingCompany = req.query.editora
+
+    books.find({'publishingCompany': publishingCompany}, {}, (err, books) => {
+      res.status(200).send(books);
+    });
+  };
 };
 
 export default BookController;
